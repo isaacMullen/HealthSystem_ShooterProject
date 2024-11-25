@@ -131,7 +131,6 @@ public class HealthSystem
                 {
                     shield += hp;
                 }
-
             }
         }
         // If player has less than 100 health, shield pickups will instead contribute to health.
